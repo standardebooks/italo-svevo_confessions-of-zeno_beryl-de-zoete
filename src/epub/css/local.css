@@ -42,7 +42,7 @@ p[epub|type~="se:diary.dateline"]{
 
 /* Ordered in "The Story of My Marriage */
 #the-story-of-my-marriage ol li + li{
-	margin-top: .5em;
+	margin-top: 1em;
 }
 
 /* Drama passage in "A Business Partnership" */
