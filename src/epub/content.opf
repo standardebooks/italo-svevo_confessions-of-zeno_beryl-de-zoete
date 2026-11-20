@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/italo-svevo/confessions-of-zeno/beryl-de-zoete</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-11-20T17:17:24Z</dc:date>
+		<meta property="dcterms:modified">2026-11-20T17:17:24Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -65,17 +65,17 @@
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<meta property="schema:abstract">A man recounts his life to cure himself from his smoking addiction.</meta>
+		<meta property="schema:abstract">To quit smoking, a man writes his memoirs.</meta>
 		<dc:description>
-			&lt;p&gt;Zeno Cosini is citizen and businessman of Trieste, Italy. Seeking a cure for his nicotine addiction, he starts treatament with a psychoanalist, who asks him to write his memoirs, which he believes will cure his patient.&lt;/p&gt;
-			&lt;p&gt;An unreliable narrator, it is not clear how accurate are Zeno’s recollections of his life. His memoirs don’t follow a completely linear structure, being instead organized by topic. In it, he speaks of his nicotine addiction (in the form of cigarettes), his studies, his marriage and his business practice. Interlaced with his recollections are some of his ideas about society and the modern world, specially psychoanalysis, a then new field of science.&lt;/p&gt;
-			&lt;p&gt;This was &lt;a href="https://standardebooks.org/ebooks/italo-svevo"&gt;Italo Svevo’s&lt;/a&gt; third and final novel. His previous works were ignored by critics and public alike, and &lt;i&gt;Confessions of Zeno&lt;/i&gt; which also received the same reception initially, would likely have remained obscure if not for the actions of Svevo’s friend and former English tutor, &lt;a href="https://standardebooks.org/ebooks/james-joyce"&gt;James Joyce&lt;/a&gt;. Under Joyce’s influence, the novel was translated into French and received high praises from critics, which led to Svevo becoming a respected author of modernist literature. The character of Zeno was likely partially based on Svevo himself, who was also a citizen of Trieste and a heavy smoker.&lt;/p&gt;
+			&lt;p&gt;Zeno Cosini is a businessman in Trieste. Seeking to quit smoking, he starts treatment with a psychoanalyst, who asks him to write his memoirs, believing this will lead to a cure.&lt;/p&gt;
+			&lt;p&gt;Zeno’s memoirs don’t follow a linear structure, and are instead organized by topic; it soon becomes apparent that he’s an unreliable narrator. He speaks of cigarettes, his studies, his marriage, and his business. Interlaced with his recollections are his ideas about society and the modern world, especially psychoanalysis, a then-new field of science. The character is likely partially based on Svevo himself, who also lived in Trieste and was a heavy smoker. &lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Confessions of Zeno&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/italo-svevo"&gt;Italo Svevo’s&lt;/a&gt; third and final novel. His previous novels were ignored by critics and the public alike, and this one would have also remained obscure if not for Svevo’s friend and former English tutor, &lt;a href="https://standardebooks.org/ebooks/james-joyce"&gt;James Joyce&lt;/a&gt;. Joyce pushed for the novel to be translated into French; the translation received high praises from critics, leading to Svevo becoming a respected part of the modernist milieu. &lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/79453</dc:source>
 		<dc:source>https://archive.org/details/confessionsofzen0000unse</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">166505</meta>
+		<meta property="schema:educationalLevel">68.81</meta>
 		<link href="https://en.wikipedia.org/wiki/Confessions_of_Zeno" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -109,6 +109,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<link href="https://www.linkedin.com/in/emma-sweeney-554927190/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
